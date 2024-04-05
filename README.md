@@ -2,7 +2,6 @@
 
 A simple web based database manager website 
 put the files into your server folder and launch the login file at your localhost or any server that you saved the files on
-# MySQL Database Interface
 
 ## Description
 This is a PHP-based web application designed to interface with your MySQL database system. It provides a simple and intuitive interface to view all databases and tables within your system. Additionally, it offers a 'Query' page where users can run custom SQL queries.
@@ -13,9 +12,16 @@ This is a PHP-based web application designed to interface with your MySQL databa
 
 ### Pages
 
-1. **Home**
+1. **Login**
+    - Login page enter your sql local username and password
+      
+     ![image](https://github.com/vishaljha1710/MySQL-Database-Interface/assets/77543816/064c19d1-21f3-4f80-9e7b-fe727889cf12)
+2. **Home**
     - Displays a welcome message and a brief description of the application.
     - Provides links to the developer's social media profiles.
+  
+      ![image](https://github.com/vishaljha1710/MySQL-Database-Interface/assets/77543816/03e7d8a0-b261-4a1e-91a1-2bc21b690845)
+
 
 2. **Navbar**
     - Contains a dropdown menu listing all databases in your MySQL system.
@@ -27,6 +33,9 @@ This is a PHP-based web application designed to interface with your MySQL databa
 4. **Query**
     - Features a text box for users to enter custom SQL queries.
     - Displays the result of the query below the text box.
+  
+      ![image](https://github.com/vishaljha1710/MySQL-Database-Interface/assets/77543816/187e8e33-b555-4938-b0b1-039fef851ebf)
+
 
 ---
 
