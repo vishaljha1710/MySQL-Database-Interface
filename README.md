@@ -2,7 +2,7 @@
 
 A simple web based database manager website 
 put the files into your server folder and launch the login file at your localhost or any server that you saved the files on
-```markdown
+# MySQL Database Interface
 
 ## Description
 This is a PHP-based web application designed to interface with your MySQL database system. It provides a simple and intuitive interface to view all databases and tables within your system. Additionally, it offers a 'Query' page where users can run custom SQL queries.
@@ -104,5 +104,3 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 For any inquiries or support, please contact [Your Name](mailto:youremail@example.com).
 
-```
-Replace placeholders like `your-username`, `username`, `password`, `database_name`, and `Your Name` with the actual details of your project.
