@@ -50,7 +50,7 @@ This is a PHP-based web application designed to interface with your MySQL databa
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/MySQL-Database-Interface.git
+    git clone https://github.com/vishaljha1710/MySQL-Database-Interface.git
     ```
 
 2. Import the SQL file provided (`database.sql`) to set up the necessary tables and data.
@@ -89,11 +89,6 @@ This is a PHP-based web application designed to interface with your MySQL databa
     - Enter a custom SQL query in the text box and click 'Run Query'.
     - View the result of the query displayed below the text box.
 
----
-
-## Screenshots
-
-*Coming Soon*
 
 ---
 
